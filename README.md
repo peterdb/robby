@@ -11,7 +11,7 @@ Usage
 Here is what a simple Robby script looks like...
 
 ```groovy
-import robby.Robby
+import robby.*
 
 Robby.drive {
     launch "com.acme.FooBarApp"
